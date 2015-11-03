@@ -1,2 +1,2 @@
 # DataProcess
-the alforithm code for data processing
+the algorithm code for data processing
